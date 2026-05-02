@@ -66,7 +66,7 @@ export default function About() {
               {/* Avatar placeholder */}
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full glass flex items-center justify-center m-1"
                 style={{ border: '3px solid rgba(0,212,255,0.3)' }}>
-                <img src="/image.jpeg" alt="Dharshini" className="rounded-full w-60 h-60 md:w-72 md:h-72 object-cover" />
+                <img src="https://res.cloudinary.com/dcuh7osei/image/upload/f_auto,q_auto/my_image_jyoivj" alt="Dharshini" className="rounded-full w-60 h-60 md:w-72 md:h-72 object-cover" />
               </div>
               {/* Floating badges */}
               {[

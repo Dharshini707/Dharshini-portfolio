@@ -98,7 +98,7 @@ export default function Hero() {
           <motion.a
             whileHover={{ scale: 1.05, y: -2 }}
             whileTap={{ scale: 0.97 }}
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1xapK55DaNoIFWhy8lHS6P7e3_JnaPH72/view?usp=sharing"
             download
             className="glass font-syne font-semibold text-white px-8 py-3.5 rounded-full text-sm border border-white/10 hover:border-[#00D4FF]/40 transition-colors"
             aria-label="Download CV"

@@ -1,0 +1,35 @@
+export const experience = [
+  {
+    id: 1,
+    role: "Cloud Computing Intern",
+    company: "Corizo Edutech Pvt Ltd",
+    period: "2026 – Present",
+    description: "Actively learning cloud computing, focusing on application deployment, scalability, and cloud-based service management through practical implementation.",
+    tags: ["AWS"],
+  },
+  {
+    id: 2,
+    role: "Full Stack Developer",
+    company: "Entri Elevate",
+    period: "2025-2026",
+    description: "Full Stack Developer with experience integrating chatbot APIs to build intelligent, user-interactive applications, along with strong skills in web development and backend systems.",
+    tags: ["React.js","Redux", "Tailwind CSS", "Node.js","Express.js", "Rest API","MongoDB"],
+  },
+  {
+    id: 3,
+    role: "Web Development Intern",
+    company: "Amdox Teechnology",
+    period: "2025",
+    description: "Designed and developed a job portal platform with features for job search, application tracking, and employer job posting, improving the recruitment process.",
+    tags: ["UI/UX", "React.js", "MongoDB", "FastAPI"],
+  },
+  {
+    id: 4,
+    role: "B.Sc. Information Technology",
+    company: "Mannar Thirumalai Naicker College",
+    period: "2022 – 2025",
+    description: "Graduated with a B.Sc. in Information Technology, developing skills in programming, data structures, and system design through coursework and hands-on projects.",
+    tags: ["Data Structures", "Programming", "Web development"],
+    isEducation: true,
+  },
+];

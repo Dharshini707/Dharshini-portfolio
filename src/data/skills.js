@@ -16,8 +16,9 @@ export const skills = {
     ],
   DevOps: [
     { name: "Render", level: 80, icon: "🚀" },
-    { name: "GitHub Actions", level: 85, icon: "🔧" },
+    { name: "Netlify", level: 80, icon: "🚀" },
     { name: "Vercel", level: 82, icon: "🚀" },
+    { name: "GitHub Actions", level: 85, icon: "🔧" },
     ],
   Tools: [
     { name: "Git", level: 95, icon: "📦" },
